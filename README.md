@@ -4,3 +4,9 @@ Technologies Used:
 Node.js
 Express.js
 Multer
+Run:
+> git clone https://github.com/pandeymuskan/fileUpload
+> npm install
+> npm start
+
+> The application will be served on :5000
